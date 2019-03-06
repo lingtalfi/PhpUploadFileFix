@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PhpUploadFileFix;
+namespace Ling\PhpUploadFileFix;
 
 
 class PhpUploadFileFixTool
