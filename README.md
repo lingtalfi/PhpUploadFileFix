@@ -219,6 +219,10 @@ $fixedFiles = PhpUploadFileFixTool::fixPhpFiles($_FILES);
 History Log
 ------------------
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2019-01-20
 
     - initial commit
